@@ -28,6 +28,11 @@
    - Сохраните ключ в переменную окружения:
    ```bash
    export MISTRAL_API_KEY="your_api_key_here"
+
+   Либо создайте файл .env в котром указан API Key
+   MISTRAL_API_KEY=your_api_key_here
+
+   
    ```
 
 2. **Создание виртуального окружения и установка зависимостей:**
